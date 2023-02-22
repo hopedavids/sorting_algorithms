@@ -1134,9 +1134,4 @@ alex@/tmp/sort$
 ```
 
 ---
-## Author
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
-* **Miguel Montoya**  - [MiguelMontoya-R](https://github.com/MiguelMontoya-R)
-
----
-# sorting_algorithms
+I am Blessed
