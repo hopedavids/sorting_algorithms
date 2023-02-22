@@ -316,7 +316,7 @@ int main(void)
     return (0);
 }
 alex@/tmp/sort$ gcc -Wall -Wextra -Werror -pedantic 2-main.c 2-selection_sort.c print_array.c -o select
-alex@/tmp/sort$ ./select
+ ./select
 19, 48, 99, 71, 13, 52, 96, 73, 86, 7
 
 7, 48, 99, 71, 13, 52, 96, 73, 86, 19
